@@ -66,7 +66,7 @@ The dashboard is built in Streamlit and designed to make the analysis clear and 
 Clone the repository and install dependencies:
 
 ```bash
-git clone <url>
+git clone <https://github.com/Armidoss/Polymarket-FVM.git>
 cd arbitrage_pro
 pip install -r requirements.txt
 ```
