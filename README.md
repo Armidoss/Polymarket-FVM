@@ -24,6 +24,10 @@ The dashboard is built in Streamlit and designed to make the analysis clear and 
 
 ---
 
+<img width="1918" height="1020" alt="Image" src="https://github.com/user-attachments/assets/8536c192-00f0-4b13-9a43-defd967e52f2" />
+
+---
+
 ## How It Works 
 
 1. **Data Collection**
